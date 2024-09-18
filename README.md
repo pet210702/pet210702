@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pet210702
 - 👀 I’m interested in Programming? I guess...
 - 🌱 I’m currently learning c#, SQL, and some other things
-- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me ... you don't
 - 😄 Pronouns: ... nick/her
 - ⚡ Fun fact: ... My school career
